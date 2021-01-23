@@ -1,0 +1,7 @@
+{
+	"name": "@rollup-playground/tree-shaking-lodash-es",
+	"description": "Tree-shaking with lodash-es",
+	"scripts": {
+		"build": "rm -rf dist && rollup -c"
+	}
+}
