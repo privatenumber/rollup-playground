@@ -4,7 +4,7 @@
 ### index.js
 Size: `93.4 kB`
 
-| Bundled in modules |
+| Bundled-in modules (141) |
 | - |
 | `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_freeGlobal.js` |
 | `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_root.js` |

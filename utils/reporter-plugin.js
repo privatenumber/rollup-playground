@@ -15,7 +15,7 @@ function reportTemplate(report) {
 	### ${file.fileName}
 	Size: ${code(file.sizeFormatted)}
 
-	| Bundled in modules |
+	| Bundled-in modules (${file.modules.length}) |
 	| - |
 	${file.modules
 		.map(m => `| ${code(m)} |`)
