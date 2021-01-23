@@ -47,7 +47,10 @@ function reporterPlugin() {
 				directoryPath = path.dirname(gitDirectoryPath);
 			}
 		}
-		return modulePath.replace(directoryPath, '');
+
+		return modulePath
+			.replace(directoryPath, '')
+			.replace(/[^\x20-\x7E]/g, ''); // remove non-printable ASCII chars (eg. virtual modules)
 	}
 
 	return {
