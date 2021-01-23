@@ -4,147 +4,151 @@
 ### index.js
 Size: `93.4 kB`
 
-| Bundled-in modules (141) |
-| - |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_freeGlobal.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_root.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Symbol.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getRawTag.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_objectToString.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseGetTag.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isObjectLike.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isSymbol.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayMap.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseToString.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isObject.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/identity.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isFunction.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_coreJsData.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isMasked.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_toSource.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsNative.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getValue.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getNative.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_WeakMap.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isIndex.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/eq.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isLength.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isArrayLike.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isPrototype.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseTimes.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsArguments.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isArguments.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/stubFalse.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isBuffer.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsTypedArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseUnary.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_nodeUtil.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isTypedArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayLikeKeys.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_overArg.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_nativeKeys.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseKeys.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/keys.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isKey.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_nativeCreate.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashClear.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashDelete.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashGet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashHas.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashSet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Hash.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheClear.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_assocIndexOf.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheDelete.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheGet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheHas.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheSet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_ListCache.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Map.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheClear.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isKeyable.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getMapData.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheDelete.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheGet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheHas.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheSet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_MapCache.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/memoize.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_memoizeCapped.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stringToPath.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/toString.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_castPath.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_toKey.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseGet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/get.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayPush.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseSlice.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_castSlice.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hasUnicode.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_asciiToArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_unicodeToArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stringToArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_createCaseFirst.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/upperFirst.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/capitalize.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayReduce.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_basePropertyOf.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_deburrLetter.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/deburr.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_asciiWords.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hasUnicodeWord.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_unicodeWords.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/words.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_createCompounder.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/camelCase.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackClear.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackDelete.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackGet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackHas.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackSet.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Stack.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayFilter.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/stubArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getSymbols.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseGetAllKeys.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getAllKeys.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_DataView.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Promise.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Set.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getTag.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Uint8Array.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_setCacheAdd.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_setCacheHas.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_SetCache.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arraySome.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_cacheHas.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_equalArrays.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapToArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_setToArray.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_equalByTag.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_equalObjects.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsEqualDeep.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsEqual.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsMatch.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isStrictComparable.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getMatchData.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_matchesStrictComparable.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseMatches.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseHasIn.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hasPath.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/hasIn.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseMatchesProperty.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseProperty.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_basePropertyDeep.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/property.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIteratee.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_createBaseFor.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseFor.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseForOwn.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_createBaseEach.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseEach.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseFilter.js` |
-| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/filter.js` |
-| `/demos/tree-shaking-lodash-es/src/index.js` |
+| Bundled-in modules (141)                                                                   | Size     | Exports   |
+| ------------------------------------------------------------------------------------------ | -------- | --------- |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_freeGlobal.js`              | `142 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_root.js`                    | `231 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Symbol.js`                  | `59 B`   | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getRawTag.js`               | `1.1 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_objectToString.js`          | `538 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseGetTag.js`              | `639 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isObjectLike.js`             | `581 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isSymbol.js`                 | `563 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayMap.js`                | `527 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isArray.js`                  | `460 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseToString.js`            | `972 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isObject.js`                 | `704 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/identity.js`                 | `341 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isFunction.js`               | `880 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_coreJsData.js`              | `94 B`   | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isMasked.js`                | `491 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_toSource.js`                | `527 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsNative.js`            | `1.2 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getValue.js`                | `296 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getNative.js`               | `366 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_WeakMap.js`                 | `106 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isIndex.js`                 | `731 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/eq.js`                       | `776 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isLength.js`                 | `777 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isArrayLike.js`              | `717 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isPrototype.js`             | `452 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseTimes.js`               | `474 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsArguments.js`         | `362 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isArguments.js`              | `904 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/stubFalse.js`                | `250 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isBuffer.js`                 | `1.0 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsTypedArray.js`        | `2.1 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseUnary.js`               | `302 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_nodeUtil.js`                | `944 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/isTypedArray.js`             | `526 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayLikeKeys.js`           | `1.5 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_overArg.js`                 | `354 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_nativeKeys.js`              | `135 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseKeys.js`                | `666 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/keys.js`                     | `726 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isKey.js`                   | `779 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_nativeCreate.js`            | `112 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashClear.js`               | `203 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashDelete.js`              | `414 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashGet.js`                 | `704 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashHas.js`                 | `558 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hashSet.js`                 | `526 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Hash.js`                    | `526 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheClear.js`          | `183 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_assocIndexOf.js`            | `427 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheDelete.js`         | `691 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheGet.js`            | `339 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheHas.js`            | `322 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_listCacheSet.js`            | `472 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_ListCache.js`               | `593 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Map.js`                     | `98 B`   | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheClear.js`           | `257 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isKeyable.js`               | `400 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getMapData.js`              | `327 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheDelete.js`          | `371 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheGet.js`             | `254 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheHas.js`             | `306 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapCacheSet.js`             | `413 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_MapCache.js`                | `604 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/memoize.js`                  | `2.2 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_memoizeCapped.js`           | `562 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stringToPath.js`            | `757 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/toString.js`                 | `503 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_castPath.js`                | `385 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_toKey.js`                   | `462 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseGet.js`                 | `515 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/get.js`                      | `822 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayPush.js`               | `407 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseSlice.js`               | `726 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_castSlice.js`               | `445 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hasUnicode.js`              | `918 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_asciiToArray.js`            | `224 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_unicodeToArray.js`          | `1.6 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stringToArray.js`           | `274 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_createCaseFirst.js`         | `603 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/upperFirst.js`               | `385 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/capitalize.js`               | `417 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayReduce.js`             | `755 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_basePropertyOf.js`          | `323 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_deburrLetter.js`            | `3.3 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/deburr.js`                   | `1.5 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_asciiWords.js`              | `373 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hasUnicodeWord.js`          | `456 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_unicodeWords.js`            | `3.1 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/words.js`                    | `825 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_createCompounder.js`        | `490 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/camelCase.js`                | `573 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackClear.js`              | `181 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackDelete.js`             | `373 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackGet.js`                | `242 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackHas.js`                | `294 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_stackSet.js`                | `714 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Stack.js`                   | `461 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arrayFilter.js`             | `600 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/stubArray.js`                | `360 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getSymbols.js`              | `777 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseGetAllKeys.js`          | `626 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getAllKeys.js`              | `299 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_DataView.js`                | `108 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Promise.js`                 | `106 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Set.js`                     | `98 B`   | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getTag.js`                  | `1.6 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_Uint8Array.js`              | `67 B`   | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_setCacheAdd.js`             | `396 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_setCacheHas.js`             | `284 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_SetCache.js`                | `473 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_arraySome.js`               | `564 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_cacheHas.js`                | `308 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_equalArrays.js`             | `2.5 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_mapToArray.js`              | `332 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_setToArray.js`              | `314 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_equalByTag.js`              | `3.5 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_equalObjects.js`            | `2.9 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsEqualDeep.js`         | `2.7 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsEqual.js`             | `887 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIsMatch.js`             | `1.7 kB` | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_isStrictComparable.js`      | `336 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_getMatchData.js`            | `450 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_matchesStrictComparable.js` | `530 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseMatches.js`             | `516 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseHasIn.js`               | `344 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_hasPath.js`                 | `829 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/hasIn.js`                    | `648 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseMatchesProperty.js`     | `797 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseProperty.js`            | `327 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_basePropertyDeep.js`        | `316 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/property.js`                 | `595 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseIteratee.js`            | `643 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_createBaseFor.js`           | `614 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseFor.js`                 | `515 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseForOwn.js`              | `357 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_createBaseEach.js`          | `806 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseEach.js`                | `331 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/_baseFilter.js`              | `519 B`  | `default` |
+| `/node_modules/.pnpm/lodash-es@4.17.20/node_modules/lodash-es/filter.js`                   | `1.5 kB` | `default` |
+| `/demos/tree-shaking-lodash-es/src/index.js`                                               | `59 B`   |           |
+
+
+
+
 <!-- report:end -->
