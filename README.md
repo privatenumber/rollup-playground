@@ -5,14 +5,17 @@ This repo contains a variety of examples that demonstrate different Rollup confi
 
 ## ⛳️ Demos
 <!-- demos:start -->
-### [externalization](/demos/externalization)
-Tree-shaking with lodash
+- [externalization](/demos/externalization)
 
-### [tree-shaking-lodash](/demos/tree-shaking-lodash)
-Tree-shaking with lodash
+	Tree-shaking with lodash
 
-### [tree-shaking-lodash-es](/demos/tree-shaking-lodash-es)
-Tree-shaking with lodash-es
+- [tree-shaking-lodash](/demos/tree-shaking-lodash)
+
+	Tree-shaking with lodash
+
+- [tree-shaking-lodash-es](/demos/tree-shaking-lodash-es)
+
+	Tree-shaking with lodash-es
 <!-- demos:end -->
 
 ## 🛠 Contributing
