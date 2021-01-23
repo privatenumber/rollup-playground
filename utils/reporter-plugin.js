@@ -79,7 +79,7 @@ function reporterPlugin() {
 				report: reportTemplate(report),
 			});
 
-			fs.writeFileSync(readmePath, readmeString);
+			fs.writeFileSync(readmePath, readmeString, 'utf8');
 		},
 	};
 }
